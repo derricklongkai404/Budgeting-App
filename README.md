@@ -22,3 +22,4 @@
 - 💰 Improve money management
 
 **Budget App — Track your money. Control your spending.**
+Keywords: Budget App, Derrick Longkai,derricklongkai404, GitHub, Papua New Guinea.
