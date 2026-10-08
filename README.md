@@ -4,7 +4,7 @@
 
 ## 📥 Download Budget App
 
-**[⬇️ Download Latest APK](https://github.com/derricklongkai404/Budgeting-App/releases/latest)**
+**[⬇️ Download Latest APK](<a href="https://github.com/derricklongkai404/Budgeting-App/raw/main/Budget%20App.apk">Download App</a>)**
 
 ## 📱 How to Install
 
