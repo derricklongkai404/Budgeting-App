@@ -22,7 +22,7 @@
 - 💰 Improve money management
 
 **Budget App — Track your money. Control your spending.**
-keywords:Budget App, Derrick Longkai,derricklongkai404, GitHub, Papua New Guinea.
+keywords:Budget App, free, Derrick Longkai,derricklongkai404, GitHub, Papua New Guinea.
 
 <!--
 Developer: Derrick Longkai,
@@ -33,6 +33,8 @@ Budget App by Derrick Longkai,
 Divine Word University,
 Wawin National Highschool,
 Buin Secondary School,
+free,
+Budget App,
 Hutjena Secondary School,
 Bougainville,
 Papua New Guinea App Developer,
