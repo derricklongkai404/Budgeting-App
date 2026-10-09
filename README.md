@@ -27,12 +27,7 @@ keywords:Budget App, free, Derrick Longkai,derricklongkai404, GitHub, Papua New 
 <!--
 Developer: Derrick Longkai,
 Search terms: Derrick Longkai, Derrick Longkai GitHub,
-Derrick Longkai Android Developer,
-Mathematics and Computing Science,
-Budget App by Derrick Longkai,
-Divine Word University,
-Wawin National Highschool,
-Buin Secondary School,
+Derrick Longkai software Developer,
 free,
 Budget App,
 Hutjena Secondary School,
